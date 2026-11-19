@@ -37,6 +37,7 @@ Captura XV6
 Captura ls
 
 Captura Cat
+(imagenes) https://docs.google.com/document/d/13NaJKhjNVwsPThQ-U8Hi31RdOgirXvllXr5JmFlVwU4/edit?pli=1&tab=t.0
 
 Configuren la ejecución del sistema operativo XV6 para que utilice una sola CPU virtual en qemu
 i. Consulta de cómo se hace esto
